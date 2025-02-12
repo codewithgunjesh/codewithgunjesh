@@ -1,0 +1,36 @@
+# Hi, I'm [Gunjesh kumar] 👋
+
+Welcome to my GitHub profile! I'm currently an Engineering student specializing in Electronics and Communication Engineering (ECE) with a strong passion for web development and data analytics.
+
+## 🚀 About Me
+- 🎓 I'm pursuing a degree in Electronics and Communication Engineering.
+- 🌐 I have proficiency in HTML and CSS.
+- 🌱 Currently, I'm working on exciting projects like Potato Leaf Disease Detection and using Power BI in Agriculture.
+
+## 💻 Skills
+- **HTML & CSS**: Creating visually appealing and responsive web pages.
+- **Python**: For data analysis and machine learning.
+- **Power BI**: To derive meaningful insights from agricultural data.
+- **Electronics and Communication**: My core field of study.
+
+## 🌱 Projects
+
+### Potato Leaf Disease Detection
+- **Description**: Developing a system to detect diseases in potato leaves using image processing and machine learning techniques.
+- **Technologies Used**: Python, OpenCV, Machine Learning.
+- **Objective**: To help farmers identify and mitigate diseases early, improving crop yield and quality.
+
+### Power BI in Agriculture
+- **Description**: Utilizing Power BI to analyze and visualize agricultural data to make data-driven decisions.
+- **Objective**: To provide actionable insights and trends to optimize agricultural practices.
+
+## 📫 How to reach me
+- [Email-gunjeshkumar990@gmail.com]
+- [LinkedIn- www.linkedin.com/in/
+mrspacelover
+Vanity URL name
+
+- [Other Contact Information]
+
+## ⚡ Fun fact
+I love diving into new technologies and exploring innovative solutions to everyday challenges. Let's connect and create something 
