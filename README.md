@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm currently an Engineering student specializing 
 - **Objective**: To provide actionable insights and trends to optimize agricultural practices.
 
 ## 📫 How to reach me
-- [Email-gunjeshkumar990@gmail.com]
+- [Email- gunjeshkumar990@gmail.com]
 - [LinkedIn- www.linkedin.com/in/
 mrspacelover
 Vanity URL name
