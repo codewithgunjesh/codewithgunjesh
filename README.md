@@ -1,11 +1,11 @@
 # Hi, I'm [Gunjesh kumar] 👋
 
-Welcome to my GitHub profile! I'm currently an Engineering student specializing in Electronics and Communication Engineering (ECE) with a strong passion for web development and data analytics.
+Welcome to my GitHub profile! I'm currently an Engineering student specializing in Electronics and Communication Engineering (ECE) with a strong passion for machine Learning and data analytics.
 
 ## 🚀 About Me
 - 🎓 I'm pursuing a degree in Electronics and Communication Engineering.
 - 🌐 I have proficiency in HTML and CSS.
-- 🌱 Currently, I'm working on exciting projects like Potato Leaf Disease Detection and using Power BI in Agriculture.
+- 🌱 Currently, I'm working on exciting projects like Ai-powered Hearing Aid, Potato Leaf Disease Detection and using Power BI in Agriculture.
 
 ## 💻 Skills
 - **HTML & CSS**: Creating visually appealing and responsive web pages.
